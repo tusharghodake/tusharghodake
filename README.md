@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tusharghodake
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently learning ...PySpark
+- 👀 I’m interested in Scripting, DevOps, Data Engineering
+- 🌱 I’m currently learning ...DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
